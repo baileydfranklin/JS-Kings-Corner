@@ -157,3 +157,10 @@ const deck = [
     },
 ];
 
+let drawNumber = 1;
+
+function drawCard(){
+    drawNumber++;
+
+    
+}
